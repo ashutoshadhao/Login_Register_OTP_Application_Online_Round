@@ -1,0 +1,128 @@
+.login-form-me {
+  /* Input */
+
+  width: 344px;
+  border-radius: 12px !important;
+}
+.login-input-username-me {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 20px;
+  background: rgba(24, 24, 27, 0.05) !important;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  border: none;
+  /* Mono/90 */
+  width: 169px;
+  border-top-left-radius: 12px !important;
+  border-bottom-left-radius: 12px !important;
+  color: #18181b;
+}
+.form-options-me {
+  height: 48px;
+  border-radius: 12px !important;
+  margin: 4px !important;
+  padding: 0px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 5px 11px;
+  line-height: 24px;
+  color: #7a7a85;
+  border: none;
+  width: 167px;
+}
+.option-me {
+  background: rgba(24, 24, 27, 0.05);
+  width: 175px;
+  border-top-right-radius: 12px !important;
+  border-bottom-right-radius: 12px !important;
+}
+.login-main-me {
+}
+.heading-me {
+  width: 344px;
+  height: 64px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 32px;
+  /* or 114% */
+
+  letter-spacing: -0.01em;
+  font-feature-settings: "tnum" on, "lnum" on;
+
+  /* Mono/90 */
+
+  color: #18181b;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+  margin-bottom: 40px;
+}
+.login-btn-me {
+  width: 344px;
+  height: 56px;
+  /* Color/Brand 50 */
+  border-radius: 12px !important;
+  background: #0858f7;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  text-align: center;
+  margin-bottom: 24px !important;
+
+  /* Mono/0 */
+
+  color: #ffffff;
+}
+.main-outter-container-me {
+  height: 100%;
+  width: 100%;
+}
+.login-input-password-me {
+  width: 344px !important;
+  height: 56px;
+
+  background: rgba(24, 24, 27, 0.05);
+  border-radius: 12px !important;
+  border: none;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+.forgot-password-me {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  text-align: center;
+
+  /* Color/Brand 50 */
+  width: 100%;
+
+  color: #0858f7;
+}
+.eye-icon-me {
+  position: relative;
+  bottom: 70px;
+  left: 315px;
+}
+

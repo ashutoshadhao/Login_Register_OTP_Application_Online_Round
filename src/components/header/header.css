@@ -1,0 +1,6 @@
+@media (max-width: 767px) {
+  .main-img-me {
+    /* margin: top-value right-value bottom-value left-value; */
+    margin-bottom: 40px;
+  }
+}

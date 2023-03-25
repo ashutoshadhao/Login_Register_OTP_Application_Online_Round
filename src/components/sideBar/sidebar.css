@@ -1,0 +1,21 @@
+.banner-me {
+  height: 664px;
+  width: 480px;
+
+}
+.image-sidebar-me {
+  display: flex;
+  flex-direction: column-reverse;
+  
+}
+@media (max-width: 768px) {
+  .image-sidebar-me {
+    display: none;
+  }
+}
+@media (max-width: 1000px) {
+  .image-sidebar-me {
+    width: 100%;
+    height: auto;
+  }
+}

@@ -1,0 +1,15 @@
+.footer {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+  color: #18181b;
+}
+@media (max-width: 900px) {
+  .footer {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+  }
+}
